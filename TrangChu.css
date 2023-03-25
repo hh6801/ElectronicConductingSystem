@@ -1,0 +1,136 @@
+
+* {
+    box-sizing: border-box;
+}
+.navbar {
+    background: #FFFFFF;
+    box-shadow: 0px 12px 24px rgba(9, 7, 37, 0.0653682);
+}
+.navbar-brand{
+    position: absolute;
+    left: 529px;
+    right: 530px;
+    top: -44px;
+    bottom: 857px;
+
+    padding: 10px 15px;
+    height: 80px;
+    line-height: 80px;
+}
+.sieuPham{
+    font-family: Bahnschrift;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-top: 95px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.moTa{
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.03em;
+    margin-top: 30px;
+    color: #333333;
+}
+.btn-danger{
+    display: flex;
+    align-items: center;
+    margin-top: 65px;
+}
+.rectangleRed {
+    background: #F13122;
+    width: 400px;
+    height: 73px;
+    margin-top: 420px;
+    text-align: center;
+    padding: 10px;
+
+}
+.text{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 53px;
+    color: #FFFFFF;
+
+}
+.card-deck{
+    width: 1000px;
+}
+.card{
+    margin-top: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 41px;
+    width: 1000px;
+    height: 450px;
+}
+h5.card-text{
+    font-family: Apercu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+.thongSo{
+    padding: 15px;
+    background: #DADADA;
+    border-radius: 21px;
+    display: inline-flex;
+
+}
+.footer{
+    height: 271px;
+    width: 1282px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+.imgfooter1{
+    width: 245px;
+    height: 128px;
+    left: 95px;
+    top: 76px;
+    margin-top: 100px;
+    margin-left: 100px;
+    /*background: url(.png);*/
+}
+.imgfooter2{
+    margin-top: 100px;
+}
+.container{
+    display: flex;
+}
+.column{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+/*.card-body2{*/
+/*    width: 450px;*/
+/*    height: 135px;*/
+/*    float: left;*/
+/*}*/
+/*p.card-text1{*/
+/*    padding: 15px;*/
+/*    background: #DADADA;*/
+/*    border-radius: 21px;*/
+/*    margin-left: 50px;*/
+
+/*}*/
+/*p.card-text2{*/
+/*    padding: 15px;*/
+/*    background: #DADADA;*/
+/*    border-radius: 21px;*/
+/*    margin-right: 50px;*/
+/*}*/
+
+
